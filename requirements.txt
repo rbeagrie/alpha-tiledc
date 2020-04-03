@@ -1,0 +1,9 @@
+Sphinx
+coverage
+flake8
+numpy
+scipy
+matplotlib
+jupyter
+pandas
+-e git+git@github.com:rbeagrie/ipynb_stripout.git@4fdaf2c6b0b4ef3698fd615a4b7a95b34604bf61#egg=ipynb_stripout-master
